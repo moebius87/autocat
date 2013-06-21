@@ -1,0 +1,4 @@
+autocat
+=======
+
+Automatic NoCat Logger
